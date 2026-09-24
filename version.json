@@ -1,6 +1,6 @@
 {
-  "build": 2,
-  "version": "1.0.1",
-  "apk": "https://github.com/YasinMohammadMasmoudi/schichtenverzeichnis_release-geoservice_stiehl/releases/download/v1.0.1/schichtenverzeichnis.apk",
-  "notes": "Ankreuzfeld Versickerungsversuch wurde aus den Zusatzangaben entfernt."
+  "build": 3,
+  "version": "1.0.2",
+  "apk": "https://github.com/YasinMohammadMasmoudi/schichtenverzeichnis_release-geoservice_stiehl/releases/download/v1.0.2/schichtenverzeichnis.apk",
+  "notes": "Fehlerbehebungen und Verbesserungen."
 }
