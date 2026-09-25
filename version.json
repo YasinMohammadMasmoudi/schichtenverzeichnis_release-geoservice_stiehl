@@ -1,6 +1,6 @@
 {
-  "build": 3,
-  "version": "1.0.2",
-  "apk": "https://github.com/YasinMohammadMasmoudi/schichtenverzeichnis_release-geoservice_stiehl/releases/download/v1.0.2/schichtenverzeichnis.apk",
-  "notes": "Fehlerbehebungen und Verbesserungen."
+  "build": 4,
+  "version": "1.0.3",
+  "apk": "https://github.com/YasinMohammadMasmoudi/schichtenverzeichnis_release-geoservice_stiehl/releases/download/v1.0.3/schichtenverzeichnis.apk",
+  "notes": "Eigene Feldwörter aus den Einstellungen erscheinen jetzt in allen Feldern. Neue „Weiter\"-Taste springt direkt zum nächsten Feld. Offline-Projekte lassen sich nachträglich online stellen, und neue Projekte sind standardmäßig online."
 }
