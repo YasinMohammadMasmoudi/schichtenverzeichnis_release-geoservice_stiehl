@@ -1,6 +1,6 @@
 {
-  "build": 4,
-  "version": "1.0.3",
-  "apk": "https://github.com/YasinMohammadMasmoudi/schichtenverzeichnis_release-geoservice_stiehl/releases/download/v1.0.3/schichtenverzeichnis.apk",
-  "notes": "Eigene Feldwörter aus den Einstellungen erscheinen jetzt in allen Feldern. Neue „Weiter\"-Taste springt direkt zum nächsten Feld. Offline-Projekte lassen sich nachträglich online stellen, und neue Projekte sind standardmäßig online."
+  "build": 5,
+  "version": "1.0.4",
+  "apk": "https://github.com/YasinMohammadMasmoudi/schichtenverzeichnis_release-geoservice_stiehl/releases/download/v1.0.4/schichtenverzeichnis.apk",
+  "notes": "Weniger Berechtigungen: das Update braucht keinen Speicher- und keinen System-Installationszugriff mehr. Das verhindert die Warnung „Schädliche App blockiert\" von Google Play Protect."
 }
