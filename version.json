@@ -2,5 +2,5 @@
   "build": 5,
   "version": "1.0.4",
   "apk": "https://github.com/YasinMohammadMasmoudi/schichtenverzeichnis_release-geoservice_stiehl/releases/download/v1.0.4/schichtenverzeichnis.apk",
-  "notes": "Weniger Berechtigungen: das Update braucht keinen Speicher- und keinen System-Installationszugriff mehr. Das verhindert die Warnung „Schädliche App blockiert\" von Google Play Protect."
+  "notes": ""
 }
