@@ -1,6 +1,6 @@
 {
-  "build": 5,
-  "version": "1.0.4",
-  "apk": "https://github.com/YasinMohammadMasmoudi/schichtenverzeichnis_release-geoservice_stiehl/releases/download/v1.0.4/schichtenverzeichnis.apk",
-  "notes": ""
+  "build": 6,
+  "version": "1.0.5",
+  "apk": "https://github.com/YasinMohammadMasmoudi/schichtenverzeichnis_release-geoservice_stiehl/releases/download/v1.0.5/schichtenverzeichnis.apk",
+  "notes": "Das angetippte Feld bleibt jetzt über der Wortleiste sichtbar, auch bei offener Tastatur."
 }
